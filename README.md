@@ -113,9 +113,11 @@ All API requests and errors are logged to `api.log` in the project's root direct
 
 ## 🤝 Contributing to Unfucker API
 
-Wanna lend a hand making Unfucker API even more awesome? You rock! 🎉 Check out our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) to get started.
+Hey there, awesome human! Interested in contributing to Unfucker? That's fuckin' great! 🎉 Before you dive into the code, make sure to read our [Contributing Guidelines](./CONTRIBUTING.md) and our rather entertaining [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-Every bug report, feature proposal, or pull request is a huge help. Let’s unfuck the world together! 👩‍💻👨‍💻
+Whether it's submitting a bug report, proposing a new feature, or creating a pull request, every contribution is valuable and appreciated. 🙏
+
+Let's build something badass together! 👩‍💻👨‍💻
 
 ## Why port 3825??
 
