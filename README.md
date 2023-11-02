@@ -46,6 +46,16 @@ Welcome to the Unfucker API, a seamless extension of [Unfucker](https://github.c
 
 [a SoCalTechLab.com project](https://socaltechlab.com/?rel=unfuckerApiGitHubRepo)
 
+Feel free to send a few unfuck requests at my implementation here https://unfucker.socaltechlab.com/unfuck
+
+```bash
+curl -X POST "https://unfucker.socaltechlab.com/unfuck" \
+  -H "Content-Type: application/json" \
+  -d '{
+        "file_content": "{ \"key\": \"value\" }"
+      }'
+```
+
 ## 📜 License
 
 This project is open-source and available under the MIT License. Check out the [LICENSE](./LICENSE) file for more details.
