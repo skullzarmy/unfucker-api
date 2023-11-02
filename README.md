@@ -42,6 +42,10 @@ Y8a.    .a8P  88       88   88     "8a,   ,a88  "8a,   ,aa  88`"Yba,  "8b,   ,aa
 
 Welcome to the Unfucker API, a seamless extension of [Unfucker](https://github.com/skullzarmy/unfucker), a Python utility designed for repairing corrupted or malformed text files. With support for JSON, XML, and TXT formats, Unfucker API inherits the capability to automatically fix syntax errors, missing attributes, or encoding issues in these files. Crafted with Flask and optimized for Docker, this API transforms your text content into a more legible and structured format swiftly and efficiently. 🚀
 
+[![SoCalTechLab.com logo - click to visit](./sctl_xs_rounded_white_text.webp)](https://socaltechlab.com/?rel=unfuckerApiGitHubRepo)
+
+[a SoCalTechLab.com project](https://socaltechlab.com/?rel=unfuckerApiGitHubRepo)
+
 ## 📜 License
 
 This project is open-source and available under the MIT License. Check out the [LICENSE](./LICENSE) file for more details.
