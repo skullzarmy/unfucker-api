@@ -46,7 +46,7 @@ Welcome to the Unfucker API, a seamless extension of [Unfucker](https://github.c
 
 [a SoCalTechLab.com project](https://socaltechlab.com/?rel=unfuckerApiGitHubRepo)
 
-Feel free to send a few unfuck requests at my implementation here https://unfucker.socaltechlab.com/unfuck
+Feel free to send a few unfuck requests at my implementation here https://unfucker.socaltechlab.com/unfuck or try it out at [https://socaltechlab.com/utils/file-unfucker/](https://socaltechlab.com/utils/file-unfucker/)
 
 ```bash
 curl -X POST "https://unfucker.socaltechlab.com/unfuck" \
